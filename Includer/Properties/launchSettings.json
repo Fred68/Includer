@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Includer": {
+      "commandName": "Project",
+      "commandLineArgs": "File.cs .1 #FILE"
+    }
+  }
+}
